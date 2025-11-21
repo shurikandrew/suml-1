@@ -1,0 +1,10 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.DS_Store
+.git/
+.gitignore

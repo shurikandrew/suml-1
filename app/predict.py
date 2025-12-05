@@ -1,11 +1,14 @@
+import os
 import joblib
 import numpy as np
 
-model = joblib.load("app/model.joblib")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "model.joblib")
 
-flower_types_list = ["Iris Setosa", "Iris Versicolour", "Iris Virginica"]
+model = joblib.load(MODEL_PATH)
+
 
 def predict(features):
     data = np.array([features])
     result = model.predict(data)[0]
-    return flower_types_list[result]
+    return result

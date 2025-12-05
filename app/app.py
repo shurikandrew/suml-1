@@ -1,6 +1,8 @@
 import streamlit as st
 import predict as pr
 
+flower_types_list = ["Iris Setosa", "Iris Versicolour", "Iris Virginica"]
+
 with st.form("iris_prediction_form"):
     sepal_length = st.number_input("Sepal Length", min_value=0.0)
     sepal_width = st.number_input("Sepal Width", min_value=0.0)
@@ -13,4 +15,4 @@ with st.form("iris_prediction_form"):
         features = [sepal_length, sepal_width, petal_length, petal_width]
         prediction = pr.predict(features)
 
-        st.success(f"The prediction is: {prediction}")
+        st.success(f"The prediction is: {flower_types_list[prediction]}")

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shurikandrew/PycharmProjects/SUML1/mlruns/959854967302825529/models/m-38c900eeb6354d499aced1ada3b7b9fb/artifacts
+creation_timestamp: 1766163253854
+experiment_id: '959854967302825529'
+last_updated_timestamp: 1766163255419
+model_id: m-38c900eeb6354d499aced1ada3b7b9fb
+model_type: null
+name: model
+source_run_id: 9f921f52f8584f188350cb42e23b93d8
+status: 2
+status_message: null

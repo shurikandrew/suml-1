@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shurikandrew/PycharmProjects/SUML1/mlruns/959854967302825529/ace9db378ce149e8b16730c48fadc97b/artifacts
+end_time: 1766163016612
+entry_point_name: ''
+experiment_id: '959854967302825529'
+lifecycle_stage: active
+run_id: ace9db378ce149e8b16730c48fadc97b
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766163014154
+status: 3
+tags: []
+user_id: shurikandrew

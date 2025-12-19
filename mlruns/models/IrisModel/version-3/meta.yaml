@@ -1,0 +1,15 @@
+creation_timestamp: 1766163257213
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1766163257213
+model_id: null
+name: IrisModel
+run_id: b9d70a3fadea4afb903af763e48f91eb
+run_link: null
+source: runs:/b9d70a3fadea4afb903af763e48f91eb/model
+status: READY
+status_message: null
+storage_location: runs:/b9d70a3fadea4afb903af763e48f91eb/model
+user_id: null
+version: 3

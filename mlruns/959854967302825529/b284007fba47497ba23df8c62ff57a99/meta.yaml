@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shurikandrew/PycharmProjects/SUML1/mlruns/959854967302825529/b284007fba47497ba23df8c62ff57a99/artifacts
+end_time: 1766163257206
+entry_point_name: ''
+experiment_id: '959854967302825529'
+lifecycle_stage: active
+run_id: b284007fba47497ba23df8c62ff57a99
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766163255422
+status: 3
+tags: []
+user_id: shurikandrew

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shurikandrew/PycharmProjects/SUML1/mlruns/959854967302825529/6660b4886e044968bc0f2501a14112af/artifacts
+end_time: 1766163020829
+entry_point_name: ''
+experiment_id: '959854967302825529'
+lifecycle_stage: active
+run_id: 6660b4886e044968bc0f2501a14112af
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766163018353
+status: 3
+tags: []
+user_id: shurikandrew

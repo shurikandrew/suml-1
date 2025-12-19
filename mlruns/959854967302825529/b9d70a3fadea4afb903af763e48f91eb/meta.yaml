@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shurikandrew/PycharmProjects/SUML1/mlruns/959854967302825529/b9d70a3fadea4afb903af763e48f91eb/artifacts
+end_time: 1766163253787
+entry_point_name: ''
+experiment_id: '959854967302825529'
+lifecycle_stage: active
+run_id: b9d70a3fadea4afb903af763e48f91eb
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766163251996
+status: 3
+tags: []
+user_id: shurikandrew
